@@ -2,8 +2,8 @@ const CACHE_NAME = "ventanas-app-v1";
 
 const urlsToCache = [
   "./",
-  "./index.html",
-  "./manifest.json"
+  "./Index.html",
+  "./Manifest.json"
 ];
 
 self.addEventListener("install", event => {
