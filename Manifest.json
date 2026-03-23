@@ -1,7 +1,7 @@
 {
   "name": "Calculadora de Ventanas",
   "short_name": "Ventanas",
-  "start_url": "./index.html",
+  "start_url": "./Index.html",
   "display": "standalone",
   "background_color": "#eef2f7",
   "theme_color": "#0a7cff",
@@ -9,12 +9,12 @@
   "icons": [
     {
       "src": "icono-192.png",
-      "sizes": "192x192",
+      "sizes": "196x196",
       "type": "image/png"
     },
     {
       "src": "icono-512.png",
-      "sizes": "512x512",
+      "sizes": "500x500",
       "type": "image/png"
     }
   ]
