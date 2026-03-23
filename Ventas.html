@@ -295,6 +295,10 @@ anchoInput.addEventListener("input",calcular);
 altoInput.addEventListener("input",calcular);
 
 </script>
-
+<script>
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("sw.js");
+}
+</script>
 </body>
 </html>
